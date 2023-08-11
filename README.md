@@ -1,2 +1,2 @@
 ## Zustand_State_Manager
-- [Link][https://github.com/pmndrs/zustand]
+- [Zustand İndirmek İçin >>>>](https://github.com/pmndrs/zustand)
